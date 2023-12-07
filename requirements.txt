@@ -1,7 +1,7 @@
 librosa==0.8.1
 mido==1.2.10
 torch==1.10.0
-torchaudio==1.10.0
+torchaudio==0.10.0
 torchvision==1.10.0
 torchlibrosa==0.1.0
 
